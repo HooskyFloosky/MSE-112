@@ -21,3 +21,4 @@ except KeyboardInterrupt:
     pi.write(LED_PIN,0)
     pi.stop
     print("Program Terminated")
+    print("Have fun!")
